@@ -11,7 +11,7 @@ Advanced NS-NET improves the original model and provides a powerful approach for
 
 ## Advanced NS-Net Architecture
 ![Advaned NS-NET Architecture](Advaned_NS-NET_Archiecture.png)
-For details regarding the architecture viewers can refer to our [paper](https://github.com/NeelRambhia/Advanced-NSNet/blob/main/Advanced%20NS-Net_%20Improving%20Generalizable%20AI-Generated%20Image%20Detection%20via%20Learned%20Semantic%20Null-Space%20Projections.pdf) or [presentation](https://github.com/NeelRambhia/Advanced-NSNet/blob/main/Advanced%20NS-Net%20Presentation.pdf).
+For details regarding the architecture, viewers can refer to our [paper](https://github.com/NeelRambhia/Advanced-NSNet/blob/main/Advanced%20NS-Net_%20Improving%20Generalizable%20AI-Generated%20Image%20Detection%20via%20Learned%20Semantic%20Null-Space%20Projections.pdf) or [presentation](https://github.com/NeelRambhia/Advanced-NSNet/blob/main/Advanced%20NS-Net%20Presentation.pdf).
 
 ## Contents of the Repositiory
 - Implementation of the original NS-NET model (`src`->`Original_NSNET.ipynb`)
