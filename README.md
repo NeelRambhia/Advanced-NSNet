@@ -7,6 +7,7 @@ NS-Net (Null Space Network) showed that:
 > Semantic information in CLIP embeddings suppresses artifact cues — and these semantic components must be removed.
 
 Advanced NS-NET improves the original model and provides a powerful approach for detecting AI-generated images by removing semantic information from CLIP embeddings using NULL-space projection. Due to the unavailability of the codebase for NS-Net, we replicated it and compared it with our implemented Advanced NS-Net.
+**Note: Due to the unavailability of the code base for NS-NET, we have replicated it for our analysis and comparison.**
 
 ## Advanced NS-Net Architecture
 ![Advaned NS-NET Architecture](Advaned_NS-NET_Archiecture.png)
@@ -20,3 +21,9 @@ For details regarding the architecture viewers can refer to our [paper](https://
 - Architecture of Advanced NS-NET
 
 The codes can be found in the `src folder`. **Note, incase Github is not able to render/ display the `.ipynb` files correctly, you may download and view the files or visit [here](https://drive.google.com/drive/folders/1bya_53c6WqoqMBJ0ao3cdob5xer7OLD1?usp=sharing) to open them on Google Colab.**
+
+## Status and Future Prospects
+- Due to limited compute resources, we trained our model on only 4000 images (2000 Real and 2000 Fake) of DALLE Recognition Dataset from Kaggle, with 2 epochs. Testing was done on 200 images.
+- We have met and presented our work to Prof. Amit Sethi and discussed about the possiblities of extending our work to benchmarked datasets (provided in the original paper).
+- Notable datasets include AIGIBench, UniversalFakeDetect, GenImage
+- If we get significantly good results, we will aim to submit our work to a conference.
