@@ -1,8 +1,10 @@
-# AdvancedN NS-Net: Improving Generalizable AI Generated Image Detection via Learned Semantic Null-Space Projections
+# Advanced NS-Net: Improving Generalizable AI Generated Image Detection via Learned Semantic Null-Space Projections
+Authors: Sachi Deshmukh, Shiwani Mishra, Neel Rambhia.
 This repository provides an improved and extensible implementation of [NS-Net (Yan et al. 2025)](https://www.arxiv.org/abs/2508.01248).
 AI-generated images produced by GANs and diffusion models have become nearly indistinguishable from real photographs. Traditional supervised detectors fail to generalize to unseen generation models.
 NS-Net (Null Space Network) showed that:
 > Semantic information in CLIP embeddings suppresses artifact cues — and these semantic components must be removed.
+
 Advanced NS-NET improves the original model and provides a powerful approach for detecting AI-generated images by removing semantic information from CLIP embeddings using NULL-space projection. Due to the unavailability of the codebase for NS-Net, we replicated it and compared it with our implemented Advanced NS-Net.
 
 ## Advanced NS-Net Architecture
