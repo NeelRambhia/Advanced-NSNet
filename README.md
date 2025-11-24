@@ -13,10 +13,10 @@ Advanced NS-NET improves the original model and provides a powerful approach for
 For details regarding the architecture viewers can refer to our [paper](https://github.com/NeelRambhia/Advanced-NSNet/blob/main/Advanced%20NS-Net_%20Improving%20Generalizable%20AI-Generated%20Image%20Detection%20via%20Learned%20Semantic%20Null-Space%20Projections.pdf) or [presentation](https://github.com/NeelRambhia/Advanced-NSNet/blob/main/Advanced%20NS-Net%20Presentation.pdf).
 
 ## Contents of the Repositiory
-- Implementation of the original NS-NET model ('src'->'Original_NSNET.ipynb')
-- Implementation of our Advanced NS-NET model ('src'->'Advanced_NSNET.ipynb')
+- Implementation of the original NS-NET model (`src`->`Original_NSNET.ipynb`)
+- Implementation of our Advanced NS-NET model (`src`->`Advanced_NSNET.ipynb`)
 - Project Report cum Paper on Advanced NS-NET
 - Presentation slides on Advanced NS-NET
 - Architecture of Advanced NS-NET
 
-The codes can be found in the 'src folder'. **Note, incase Github is not able to render/ display the '.ipynb' files correctly, you may download and view the files or visit [here](https://drive.google.com/drive/folders/1bya_53c6WqoqMBJ0ao3cdob5xer7OLD1?usp=sharing) to open them on Google Colab.**
+The codes can be found in the `src folder`. **Note, incase Github is not able to render/ display the `.ipynb` files correctly, you may download and view the files or visit [here](https://drive.google.com/drive/folders/1bya_53c6WqoqMBJ0ao3cdob5xer7OLD1?usp=sharing) to open them on Google Colab.**
